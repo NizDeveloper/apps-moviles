@@ -1,11 +1,13 @@
 # PORTAFOLIO MOVILES
 ### NIZ GADIEL PEÑA MARISCAL
 ### ITIID-4
+
 ---
- # Índice de Programas en Dart
+
+# Índice de Programas en Dart
 
 | Archivo | Descripción |
-|---------|-------------|
+| :--- | :--- |
 | `01_holamundo.dart` | Muestra un mensaje de saludo en la terminal. |
 | `02_dataTypes.dart` | Explora los diferentes tipos de datos disponibles: números enteros, decimales, texto, valores booleanos, colecciones y diccionarios. |
 | `03_finalConst.dart` | Ilustra las diferencias entre variables inmutables declaradas con `final` y constantes de tiempo de compilación con `const`. |
@@ -26,5 +28,12 @@
 | `18a_functions.dart` | Introduce la creación y llamado de funciones reutilizables. |
 | `18b_functions.dart` | Construye tablas de multiplicación mediante funciones parametrizadas. |
 | `19_primos.dart` | Determina si un número dado cumple con las características de un número primo. |
-|`20a_factorial.dart`| Determina el factorial de un número|
-|`20b_factorial.dart`| Determina el factorial de un número llamandolo desde una función|
+| `20a_factorial.dart` | Determina el factorial de un número mediante un ciclo. |
+| `20b_factorial.dart` | Determina el factorial de un número llamándolo desde una función. |
+| `20c_factorial.dart` | Implementación del cálculo de factorial utilizando recursividad. |
+| `21_suma.dart` | Función diseñada para sumar los elementos contenidos en una lista o colección. |
+| `22_stack.dart` | Simulación de una estructura de datos tipo Pila (Stack) siguiendo el principio LIFO. |
+| `23_queue.dart` | Simulación de una estructura de datos tipo Cola (Queue) siguiendo el principio FIFO. |
+| `24_try_catch.dart` | Implementación de manejo de excepciones para prevenir errores en tiempo de ejecución. |
+
+---
